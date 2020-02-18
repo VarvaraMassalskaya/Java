@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 import java.util.Arrays;
-public class Optional_task1 {
+public class OptionalTask1 {
     /* Ввести с консоли n - размерность матрицы a [n] [n].
     Задать значения элементов матрицы в интервале значений от -M до M с помощью генератора случайных чисел (класс Random).*/
     public static void printArr(int[][] a) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class Main_task1 {
+public class MainTask1 {
     public static void main(String[] args) {
     /*1. Приветствовать любого пользователя при вводе его имени через командную строку.*/
         System.out.println("Type your name in command line");
